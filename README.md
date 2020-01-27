@@ -53,6 +53,8 @@
     - E-mailの正規表現のチェック
   - ValidNumber()
     - 電話番号の正規表現チェック
+  - ValidLength()
+    - 文字の長さをチェック
 
 - 機能関連
   - PostArticle()
