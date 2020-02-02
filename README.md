@@ -47,23 +47,23 @@
 必要な関数
 
 - バリデーション関連
-  - ValidRequired()
+  - validRequired()
     - 未入力チェック（氏名・E-mail）
-  - ValidEmail()
+  - validEmail()
     - E-mailの正規表現のチェック
-  - ValidNumber()
+  - validNumber()
     - 電話番号の正規表現チェック
-  - ValidLength()
+  - validLength()
     - 文字の長さをチェック
 
 - 機能関連
-  - PostArticle()
+  - postArticle()
     - 記事投稿
-  - EditArticle()
+  - editArticle()
     - 記事編集
-  - DeleteArticle()
+  - deleteArticle()
     - 記事削除
-  - ListArticle()
+  - listArticle()
     - 記事一覧表示
 
 ## 必要なコンポーネント
